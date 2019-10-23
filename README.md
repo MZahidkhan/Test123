@@ -7,6 +7,6 @@ Websites for you and your projects
       <p>Head over to <a href="https://github.com">GitHub</a> and <a data-proofer-ignore="true" href="https://github.com/new">create a new repository</a> named <em>username</em>.github.io, where <em>username</em> is your username (or organization name) on GitHub.</p>
 
 
-    </li>
+ 
 
     
