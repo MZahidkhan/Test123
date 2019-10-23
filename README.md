@@ -45,59 +45,7 @@ Websites for you and your projects
 
       <p class="details">If the app doesn't open, launch it and clone the repository from the app.</p>
     </li>
-
-    <li id="setup-in-desktop" class="option-newuser image-right animate-in hidden">
-      <h4>Clone the repository</h4>
-      <p>After finishing the installation, head back to GitHub.com and refresh the page. Click the "Set up in Desktop" button. When the GitHub desktop app opens, save the project.</p>
-
-      <p class="details">If the app doesn't open, launch it and clone the repository from the app.</p>
-    </li>
-
-    <li class="option-terminal">
-      <h4>Hello World</h4>
-      <p>Enter the project folder and add an index.html file:</p>
-
-      <div class="terminal">
-        <div class="header"></div>
-        <div class="shell">
-          <p><span class="path">~</span><span class="prompt">$</span>cd <em>username</em>.github.io</p>
-          <p><span class="path">~</span><span class="prompt">$</span>echo "Hello World" &gt; index.html</p>
-        </div>
-      </div>
-    </li>
-
-    <li class="option-desktop option-newuser animate-in hidden">
-      <h4>Create an index file</h4>
-      <p>Grab your favorite text editor and add an index.html file to your project:</p>
-
-      <div class="terminal">
-        <div class="header">index.html</div>
-        <code class="shell">
-          <pre>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;body&gt;
-&lt;h1&gt;Hello World&lt;/h1&gt;
-&lt;p&gt;I'm hosted with GitHub Pages.&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</pre>
-      </code>
-    </div></li>
-
-    <li class="option-terminal">
-      <h4>Push it</h4>
-      <p>Add, commit, and push your changes:</p>
-
-      <div class="terminal">
-        <div class="header"></div>
-        <div class="shell">
-          <p><span class="path">~</span><span class="prompt">$</span>git add --all</p>
-          <p><span class="path">~</span><span class="prompt">$</span>git commit -m "Initial commit"</p>
-          <p><span class="path">~</span><span class="prompt">$</span>git push -u origin master</p>
-        </div>
-      </div>
-    </li>
-
-    <li class="option-desktop option-newuser animate-in hidden">
-      <h4>Commit &amp; publish</h4>
+      
 
       <p>Enter the repository, commit your changes, and press the publish button.</p>
+      <ul id="user-site" class="tutorial-list wrapper active">
